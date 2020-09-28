@@ -1,4 +1,2 @@
 # DJI Digital FPV
-```
-база знаний [чатика](https://t.me/djifpvrus) в telegram
-```
+база знаний чатика в [telegram](https://t.me/djifpvrus)
