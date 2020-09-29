@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
 logo: ../pics/DJI.png
-plugins:
-  - jekyll-last-modified-at
-
-# Optional. The default date format, used if none is specified in the tag.
-last-modified-at:
-    date-format: '%d-%b-%y'
+# Footer metadata
+show_last_edit_time: true
+last_edit_time_format: "%Y-%m-%d %H:%M"
