@@ -1,8 +1,3 @@
----
-layout: post
-published: true
----
-
 # F.A.Q.
 frequently asked questions
 
