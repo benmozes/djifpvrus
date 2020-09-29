@@ -34,7 +34,7 @@ frequently asked questions
 >
 > * Air Unit/Caddx Vista:
 >
->   * создать файл naco.txt с текстом *“1”* (без кавычек);
+>   * создать файл *naco.txt* с текстом *“1”* (без кавычек);
 >
 >   * Скопировать файл *naco.txt* на SD Air Unit’а или напрямую на Caddx Vista (да, в Vista нет SD карты, но она отлично определяется как съёмный диск);
 >
