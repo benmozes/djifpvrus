@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# F.A.Q
+# F.A.Q.
 
 frequently asked questions
 
