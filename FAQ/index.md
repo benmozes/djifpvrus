@@ -40,7 +40,7 @@ frequently asked questions
 >
 >   * перезагрузить передатчик.
 >
->     ![50mbps](https://github.com/benmozes/djifpvrus/blob/master/FAQ/pics/50mbps.jpg)
+>     ![50mbps](/FAQ/pics/50mbps.jpg)
 >
 >   В случае, если после обновления прошивки очков и видеомодуля FCC режим не активен, повторить процедуры; 
 >
