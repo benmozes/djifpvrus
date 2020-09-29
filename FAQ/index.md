@@ -45,3 +45,23 @@ frequently asked questions
 >   В случае, если после обновления прошивки очков и видеомодуля FCC режим не активен, повторить процедуры; 
 >
 >   Если запутались в файлах и сомневаетесь, копируйте оба, в очки и видеомодуль.
+
+### Кастом OSD и варнинги есть?
+
+> Есть:
+>
+> * Betaflight:
+>
+>   * Активировать [порт](https://drive.google.com/file/d/1hIsNYiTIwhNHct0U-PDWZ-IFEeqnXof7/view?usp=sharing) на который припаяли RX и TX;
+>
+>     ![50mbps](/FAQ/pics/betaports.jpg?raw=true)
+>
+>   * Включить [OSD](https://drive.google.com/file/d/1IIc43H3hWpNK4hpGuviq9UJs4eb8R0Ov/view?usp=sharing).
+>
+>     ![50mbps](/FAQ/pics/betaOSD.jpg?raw=true)
+>
+> * KiSS:
+>
+>   * Выбрать в [Serial configuration](https://drive.google.com/file/d/1DRZ7L4wVeGpY6geTn4zhdJgieTgLsv1K/view?usp=sharing) DJI-MSP на нужном порту.
+>
+>     ![50mbps](/FAQ/pics/kiss.png?raw=true)
