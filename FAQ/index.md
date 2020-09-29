@@ -52,16 +52,16 @@ frequently asked questions
 >
 > * Betaflight:
 >
->   * Активировать порт на который припаяли RX и TX;
+>   * Активировать [порт](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/betaports.jpg) на который припаяли RX и TX;
 >
 >     ![50mbps](/FAQ/pics/betaports.jpg?raw=true)
 >
->   * Включить OSD.
+>   * Включить [OSD](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/betaOSD.jpg).
 >
 >     ![50mbps](/FAQ/pics/betaOSD.jpg?raw=true)
 >
 > * KiSS:
 >
->   * Выбрать в Serial configuration DJI-MSP на нужном порту.
+>   * Выбрать в [Serial configuration](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/kiss.png) DJI-MSP на нужном порту.
 >
 >     ![50mbps](/FAQ/pics/kiss.png?raw=true)
