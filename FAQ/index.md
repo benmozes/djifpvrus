@@ -2,8 +2,6 @@
 layout: post
 ---
 
-# F.A.Q.
-
 frequently asked questions
 
 ### Содержание:
