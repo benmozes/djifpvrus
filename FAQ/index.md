@@ -1,6 +1,5 @@
 ---
 layout: post
-title: F.A.Q.
 ---
 
 # F.A.Q
