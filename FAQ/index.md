@@ -1,3 +1,5 @@
+<meta http-equiv="last-modified" content="Sun, 10 Feb 2013 14:00:46 GMT " />
+
 # F.A.Q.
 frequently asked questions
 
