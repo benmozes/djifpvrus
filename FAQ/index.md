@@ -1,7 +1,5 @@
 # F.A.Q
 
-{% last_modified_at %}
-
 frequently asked questions
 
 ### Содержание:
