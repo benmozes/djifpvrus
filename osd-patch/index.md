@@ -35,11 +35,11 @@
     Здесь нас интересует модель процессора. В данном случае это **STM32F405**. 
     
 1. Скачиваем соответствующий файл прошивки:
-    * [STM32F405](osd-patch/4.2.3_hex/betaflight_4.2.3_STM32F405_norevision.hex)
-    * [STM32F411](osd-patch/4.2.3_hex/betaflight_4.2.3_STM32F411_norevision.hex)
-    * [STM32F722](osd-patch/4.2.3_hex/betaflight_4.2.3_STM32F7X2_norevision.hex)
-    * [STM32F7X2](osd-patch/4.2.3_hex/betaflight_4.2.3_STM32F7X2_norevision.hex)
-    * [STM32F745](osd-patch/4.2.3_hex/betaflight_4.2.3_STM32F745_norevision.hex)
+    * [STM32F405](/4.2.3_hex/betaflight_4.2.3_STM32F405_norevision.hex)
+    * [STM32F411](/4.2.3_hex/betaflight_4.2.3_STM32F411_norevision.hex)
+    * [STM32F722](/4.2.3_hex/betaflight_4.2.3_STM32F7X2_norevision.hex)
+    * [STM32F7X2](/4.2.3_hex/betaflight_4.2.3_STM32F7X2_norevision.hex)
+    * [STM32F745](/4.2.3_hex/betaflight_4.2.3_STM32F745_norevision.hex)
 
 1. Сохраняем дамп текущих настроек вашей прошивки, как вы это делаете при обычной перепрошивке. Все ваши настройки слетят, поэтому позаботьтесь о дампе или будете настраивать все с нуля!
 
