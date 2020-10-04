@@ -1,0 +1,51 @@
+Index: src/main/osd/osd_elements.c
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/osd/osd_elements.c	(revision 8f2d21460a9913d58bd1c33f8348c3791451fb45)
++++ src/main/osd/osd_elements.c	(date 1594618396159)
+@@ -969,13 +969,13 @@
+     if (linkQualitySource == LQ_SOURCE_RX_PROTOCOL_CRSF) { // 0-99
+         osdLinkQuality = rxGetLinkQuality();
+         const uint8_t osdRfMode = rxGetRfMode();
+-        tfp_sprintf(element->buff, "%c%1d:%2d", SYM_LINK_QUALITY, osdRfMode, osdLinkQuality);
++        tfp_sprintf(element->buff, "LQ %1d:%2d", osdRfMode, osdLinkQuality);
+     } else { // 0-9
+         osdLinkQuality = rxGetLinkQuality() * 10 / LINK_QUALITY_MAX_VALUE;
+         if (osdLinkQuality >= 10) {
+             osdLinkQuality = 9;
+         }
+-        tfp_sprintf(element->buff, "%c%1d", SYM_LINK_QUALITY, osdLinkQuality);
++        tfp_sprintf(element->buff, "LQ %1d", osdLinkQuality);
+     }
+ }
+ #endif // USE_RX_LINK_QUALITY_INFO
+@@ -1536,6 +1536,18 @@
+ 
+ }
+ 
++static void osdElementWarnings2(osdElementParms_t *element)
++{
++    osdElementWarnings(element);
++
++    if (strlen(element->buff) == 0) {
++        osdElementLinkQuality(element);
++    }
++
++    strncpy(pilotConfigMutable()->name, element->buff, 12);
++    return;
++}
++
+ // Define the order in which the elements are drawn.
+ // Elements positioned later in the list will overlay the earlier
+ // ones if their character positions overlap
+@@ -1644,7 +1656,7 @@
+     [OSD_YAW_PIDS]                = osdElementPidsYaw,
+     [OSD_POWER]                   = osdElementPower,
+     [OSD_PIDRATE_PROFILE]         = osdElementPidRateProfile,
+-    [OSD_WARNINGS]                = osdElementWarnings,
++    [OSD_WARNINGS]                = osdElementWarnings2,
+     [OSD_AVG_CELL_VOLTAGE]        = osdElementAverageCellVoltage,
+ #ifdef USE_GPS
+     [OSD_GPS_LON]                 = osdElementGpsLongitude,
