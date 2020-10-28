@@ -69,6 +69,19 @@ frequently asked questions
 >   В случае, если после обновления прошивки очков и видеомодуля FCC режим не активен, повторить процедуры; 
 >
 >   Если запутались в файлах и сомневаетесь, копируйте оба, в очки и видеомодуль.
+>   
+>   ----
+>   
+>   Если необходимо включить CE mode, достаточно исправить цифру с 1 на 3 в файле naco.txt на передатчике:
+>   
+>   - 1 – FCC mode for US, 8 Channels
+>   - 2 – FCC mode for Canada 4 Channels
+>   - 3 – HK CE 4 Channels
+>   - 4 – CN SRRC 4 Channels
+>   - 5 – JP Japan 3 Channels
+>   - 6 – KR Korea 4 Channels
+>   - 7 – BR Brazil 4 Channels
+>   - 8 – FR CCA 4 Channels
 
 #### <a name='Кастом OSD и варнинги есть?'>Кастом OSD и варнинги есть?</a>
 
