@@ -2,7 +2,7 @@
 
 основные параметры и отличия двух систем
 
-[](/unit-vs-vista/pics/dji-caddx-logo.png?raw=true)
+![](/unit-vs-vista/pics/dji-caddx-logo.png)
 
 |                                |                   Caddx VISTA HD |                     DJI FPV Air Unit |
 | :----------------------------- | -------------------------------: | -----------------------------------: |
