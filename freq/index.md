@@ -1,3 +1,3 @@
 # Частотная сетка DJI fpv vs аналог
 
-![](/freq/pics/freqs.jpg?raw=true)
+![frequenices](/freq/pics/freqs.jpg?raw=true)
