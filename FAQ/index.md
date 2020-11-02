@@ -52,7 +52,7 @@ frequently asked questions
 >
 >   * **если достаточно 700mW - можно ничего не делать;**
 >   * <u>если необходимо увеличение мощности</u>:
->   * создать файл *naco_pwr.txt* с текстом *“pwr_1”* или *“pwr_2”* без кавычек (pwr_1 = 1000mW, pwr_2 = 1200mW и 1000mW) или [скачать](https://docs.google.com/document/d/103Dgyd2DuEdhO9LPLnTmSdLSg6Ij400Q8h0svXxu-C0/edit?usp=sharing);
+>   * создать файл *naco_pwr.txt* с текстом *“pwr_1”* или *“pwr_2”* без кавычек (pwr_1 = 1000mW, pwr_2 = 1200mW и 1000mW);
 >   * скопировать файл naco_pwr.txt на SD карту очков;
 >   * перезагрузить очки.
 >
