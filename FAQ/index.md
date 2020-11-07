@@ -145,9 +145,9 @@ frequently asked questions
 
 #### <a name='Какой аналог мод выбрать?'>Какой аналог мод выбрать?</a>
 
-> * [Раз](https://www.getfpv.com/analog-fat-shark-receiver-module-adapter-v3-0-plus-for-dji-digital-fpv-goggles.html);
-> * [Два](https://www.getfpv.com/iflight-3d-printed-analog-conversion-kit-for-dji-fpv-goggles-tbs-fusion.html);
-> * [Три](https://www.getfpv.com/bdi-digital-adapter-analog-adapter-for-dji-hd-fpv-goggles.html).
+> * [Fat Shark Receiver Module Adapter V3.0 PLUS](https://www.getfpv.com/analog-fat-shark-receiver-module-adapter-v3-0-plus-for-dji-digital-fpv-goggles.html) - крепится сбоку, не мешает установке патчей от Lumenier и IFlight;
+> * [iFlight 3D Printed Analog Conversion Kit](https://www.getfpv.com/iflight-3d-printed-analog-conversion-kit-for-dji-fpv-goggles-tbs-fusion.html) - замена фейсплейта, 3D печать, мешает установке патчей от Lumenier и IFlight;
+> * [British Drone Industries](https://www.getfpv.com/bdi-digital-adapter-analog-adapter-for-dji-hd-fpv-goggles.html) - замена фейсплейта, "дорого, богато", мешает установке патчей от Lumenier и IFlight.
 
 #### <a name='Можно ли передавать видео из очков?'>Можно ли передавать видео из очков?</a>
 
