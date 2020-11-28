@@ -9,6 +9,6 @@
 * [iNav OSD patch](https://djifpv.ru/inav-osd-patch/)
 * [Частотная сетка DJI fpv vs аналог](https://djifpv.ru/freq/)
 
-
+----
 
 - [Что делать, если Tango 2 перестала запускаться, выключается сама или зависает?](https://djifpv.ru/tango-trouble/)
