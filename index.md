@@ -2,7 +2,7 @@
 # DJI Digital FPV
 коллективная база знаний чатика в [telegram](https://t.me/djifpvrus)
 
-* [Настройка по шагам](https://djifpv.ru/first-steps/)
+* [Начальная настройка DJI FPV](https://djifpv.ru/first-steps/)
 * [F.A.Q.](https://djifpv.ru/FAQ/)
 * [Передатчики, камеры](https://djifpv.ru/unit-vs-vista/)
 * [Betaflight OSD patch](https://djifpv.ru/osd-patch/)
