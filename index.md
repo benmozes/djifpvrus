@@ -10,5 +10,5 @@
 * [Частотная сетка DJI fpv vs аналог](https://djifpv.ru/freq/)
 
 ----
-
+- [**Best GoPro Settings for Cinematic FPV** by Stefano Rinaldo](https://filmfpv.com/best-gopro-settings-stabilization-for-cinematic-fpv/)
 - [Что делать, если Tango 2 перестала запускаться, выключается сама или зависает?](https://djifpv.ru/tango-trouble/)
