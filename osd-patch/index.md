@@ -55,37 +55,37 @@
 1. Сохраняем, проверяем :)
 
 ## Что показывается в OSD:
-| информация [отсюда](https://oscarliang.com/dji-fpv-system-setup/) | состояние на август 2020 |
-|:---|:---|
-|✘ Adjustment range|	✔ GPS stats|
-|✔ Altitude|	✔ GPS speed|
-|✔ Angle: pitch|	✔ Home direction|
-|✔ Angle: roll|	✔ Home distance|
-|✘ Anti gravity|	✘ Link quality|
-|✘ Artifical horizon|	✘ Motor diagnostics|
-|✔ Artifical horizon sidebars|	✘ Numerical heading|
-|✔ Battery average cell voltage|	✔ Numercial vario|
-|✔ Battery current draw|	✔ PID pitch|
-|✔ Battery current mAh drawn|	✔ PID roll|
-|✘ Battery efficiency|	✔ PID yaw|
-|✔ Battery usage|	✔ Power|
-|✔ Battery voltage|	✘ Profile: OSD profile name|
-|✘ Blackbox log status|	✔ Profile: PID and rate|
-|✘ Camera frame|	✘ Profile: PID profile name|
-|✘ Compass bar|	✘ Profile: PID rate profile name|
-|✘ Core temperature|	✘ RC Channels|
-|✔ Craft name|	✘ RSSI dBm value|
-|✔ Crosshairs|	✔ RSSI value|
-|✘ Debug|	✔ RTC date and time|
-|✔ Disarmed|	✘ Stick overlay left|
-|✘ ESC RPM|	✘ Stick overlay right|
-|✘ ESC RPM frequency|	✘ Throttle position|
-|✔ ESC Temperature|	✘ Timer 1|
-|✘ Flight distance|	✘ Timer 2|
-|✘ Flip after crash arrow|	✘ Timer: remaining time estimate|
-|✔ Fly mode|	✘ VTX channel|
-|✘ G force|	✘ Warning|
-|✔ GPS latitude|	✘ Display name|
-|✔ GPS longtitude||
+| информация [отсюда](https://oscarliang.com/dji-fpv-system-setup/) | состояние на август 2020         |
+| ------------------------------------------------------------ | -------------------------------- |
+| ✘ Adjustment range                                           | ✔ GPS stats                      |
+| ✔ Altitude                                                   | ✔ GPS speed                      |
+| ✔ Angle: pitch                                               | ✔ Home direction                 |
+| ✔ Angle: roll                                                | ✔ Home distance                  |
+| ✘ Anti gravity                                               | ✘ Link quality                   |
+| ✘ Artifical horizon                                          | ✘ Motor diagnostics              |
+| ✔ Artifical horizon sidebars                                 | ✘ Numerical heading              |
+| ✔ Battery average cell voltage                               | ✔ Numercial vario                |
+| ✔ Battery current draw                                       | ✔ PID pitch                      |
+| ✔ Battery current mAh drawn                                  | ✔ PID roll                       |
+| ✘ Battery efficiency                                         | ✔ PID yaw                        |
+| ✔ Battery usage                                              | ✔ Power                          |
+| ✔ Battery voltage                                            | ✘ Profile: OSD profile name      |
+| ✘ Blackbox log status                                        | ✔ Profile: PID and rate          |
+| ✘ Camera frame                                               | ✘ Profile: PID profile name      |
+| ✘ Compass bar                                                | ✘ Profile: PID rate profile name |
+| ✘ Core temperature                                           | ✘ RC Channels                    |
+| ✔ Craft name                                                 | ✘ RSSI dBm value                 |
+| ✔ Crosshairs                                                 | ✔ RSSI value                     |
+| ✘ Debug                                                      | ✔ RTC date and time              |
+| ✔ Disarmed                                                   | ✘ Stick overlay left             |
+| ✘ ESC RPM                                                    | ✘ Stick overlay right            |
+| ✘ ESC RPM frequency                                          | ✘ Throttle position              |
+| ✔ ESC Temperature                                            | ✘ Timer 1                        |
+| ✘ Flight distance                                            | ✘ Timer 2                        |
+| ✘ Flip after crash arrow                                     | ✘ Timer: remaining time estimate |
+| ✔ Fly mode                                                   | ✘ VTX channel                    |
+| ✘ G force                                                    | ✘ Warning                        |
+| ✔ GPS latitude                                               | ✘ Display name                   |
+| ✔ GPS longtitude                                             |                                  |
 
 
