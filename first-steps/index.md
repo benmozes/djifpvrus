@@ -136,3 +136,6 @@
 | ~~G force~~                  | ~~Warning~~                        |
 | GPS latitude                 | ~~Display name~~                   |
 | GPS longtitude               |                                    |
+
+* [Betaflight OSD patch](https://djifpv.ru/osd-patch/)
+* [iNav OSD patch](https://djifpv.ru/inav-osd-patch/)
