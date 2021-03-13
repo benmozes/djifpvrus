@@ -136,36 +136,3 @@
 | ~~G force~~                  | ~~Warning~~                        |
 | GPS latitude                 | ~~Display name~~                   |
 | GPS longtitude               |                                    |
-
-|                                         | по состоянию на август 2020                     |
-|-----------------------------------------|-------------------------------------------------|
-| <strike>Adjustment range</strike>       | GPS stats                                       |
-| Altitude                                | GPS speed                                       |
-| Angle: pitch                            | Home direction                                  |
-| Angle: roll                             | Home distance                                   |
-| <strike>Anti gravity</strike>           | <strike>Link quality</strike>                   |
-| <strike>Artifical horizon</strike>      | <strike>Motor diagnostics</strike>              |
-| Artifical horizon sidebars              | <strike>Numerical heading</strike>              |
-| Battery average cell voltage            | Numercial vario                                 |
-| Battery current draw                    | PID pitch                                       |
-| Battery current mAh drawn               | PID roll                                        |
-| <strike>Battery efficiency</strike>     | PID yaw                                         |
-| Battery usage                           | Power                                           |
-| Battery voltage                         | <strike>Profile: OSD profile name</strike>      |
-| <strike>Blackbox log status</strike>    | Profile: PID and rate                           |
-| <strike>Camera frame</strike>           | <strike>Profile: PID profile name</strike>      |
-| <strike>Compass bar</strike>            | <strike>Profile: PID rate profile name</strike> |
-| <strike>Core temperature</strike>       | <strike>RC Channels</strike>                    |
-| Craft name                              | <strike>RSSI dBm value</strike>                 |
-| Crosshairs                              | RSSI value                                      |
-| <strike>Debug</strike>                  | RTC date and time                               |
-| Disarmed                                | <strike>Stick overlay left</strike>             |
-| <strike>ESC RPM</strike>                | <strike>Stick overlay right</strike>            |
-| <strike>ESC RPM frequency</strike>      | <strike>Throttle position</strike>              |
-| ESC Temperature                         | <strike>Timer 1</strike>                        |
-| <strike>Flight distance</strike>        | <strike>Timer 2</strike>                        |
-| <strike>Flip after crash arrow</strike> | <strike>Timer: remaining time estimate</strike> |
-| Fly mode                                | <strike>VTX channel</strike>                    |
-| <strike>G force</strike>                | <strike>Warning</strike>                        |
-| GPS latitude                            | <strike>Display name</strike>                   |
-| GPS longtitude                          |                                                 |
