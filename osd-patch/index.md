@@ -55,7 +55,7 @@
 1. Сохраняем, проверяем :)
 
 ## Что показывается в OSD:
-| информация [отсюда](https://oscarliang.com/dji-fpv-system-setup/) | состояние на август 2020         |
+|                                                              | состояние на август 2020         |
 | ------------------------------------------------------------ | -------------------------------- |
 | ✘ Adjustment range                                           | ✔ GPS stats                      |
 | ✔ Altitude                                                   | ✔ GPS speed                      |
@@ -86,7 +86,7 @@
 | ✔ Fly mode                                                   | ✘ VTX channel                    |
 | ✘ G force                                                    | ✘ Warning                        |
 | ✔ GPS latitude                                               | ✘ Display name                   |
-| ✔ GPS longtitude                                             |                                  |
+| ✔ GPS longtitude                                             | ✘ Display name                   |
 
 |                                |                                          DJI FPV Air Unit |                    Caddx VISTA HD |
 | :----------------------------- | --------------------------------------------------------: | --------------------------------: |
