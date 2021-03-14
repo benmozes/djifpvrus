@@ -9,6 +9,17 @@
 * [iNav OSD patch](https://djifpv.ru/inav-osd-patch/)
 * [Частотная сетка DJI fpv vs аналог](https://djifpv.ru/freq/)
 
+---
+### можно ли использовать очки из DJI FPV Drone kit?
+
+**да**, но пока только с помощью хака, который активирует FCC, 5.8, FPV режим в очках для соединения с AirUnit\Vista: https://drone-hacks.com 
+
+Нужна версия Lite. 
+
+![lite](/pics/lite.png?raw=true)
+
+*купон на небольшую скидку:* ZBESTREVIEW_10
+
 ----
 - [Best GoPro Settings for Cinematic FPV by Stefano Rinaldo](https://filmfpv.com/best-gopro-settings-stabilization-for-cinematic-fpv/)
 - [Что делать, если Tango 2 перестала запускаться, выключается сама или зависает?](https://djifpv.ru/tango-trouble/)
