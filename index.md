@@ -8,6 +8,7 @@
 * [Betaflight OSD patch](https://djifpv.ru/osd-patch/)
 * [iNav OSD patch](https://djifpv.ru/inav-osd-patch/)
 * [Частотная сетка DJI fpv vs аналог](https://djifpv.ru/freq/)
+
 ---
 ### как активировать standalone очки, если есть проблема. 
 
