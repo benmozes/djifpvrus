@@ -8,6 +8,11 @@
 * [Betaflight OSD patch](https://djifpv.ru/osd-patch/)
 * [iNav OSD patch](https://djifpv.ru/inav-osd-patch/)
 * [Частотная сетка DJI fpv vs аналог](https://djifpv.ru/freq/)
+---
+### как активировать standalone очки, если есть проблема. 
+
+ответ техподдержки с [инструкцией](https://docs.google.com/document/d/1T6fUOv4TjPwUuy8nDpnhJME348c4_WQYBkIPcGWFmtA/edit?usp=sharing)
+_решение явно костыльное и временное, если вдруг перестало работать, пишите в _[чат](https://t.me/djifpvrus)
 
 ---
 ### можно ли использовать очки из DJI FPV Drone kit совместно с air unit/caddx vista?
