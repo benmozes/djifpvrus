@@ -10,7 +10,7 @@
 * [Частотная сетка DJI fpv vs аналог](https://djifpv.ru/freq/)
 
 ---
-### как активировать standalone очки, если есть проблема. 
+### как активировать standalone v2 очки, если есть проблема. 
 
 ответ техподдержки с [инструкцией](https://docs.google.com/document/d/1T6fUOv4TjPwUuy8nDpnhJME348c4_WQYBkIPcGWFmtA/edit?usp=sharing)
 
