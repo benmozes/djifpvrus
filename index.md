@@ -19,7 +19,7 @@
 ---
 ### можно ли использовать очки из DJI FPV Drone kit совместно с air unit/caddx vista?
 
-**да**
+#### **да**, но <u><span style="color:red;">только после активации в связке с DJI FPV Drone</span></u>
 
 #### бесплатный вариант:
 [сайт](https://b3yond.d3vl.com/), [видео](https://youtu.be/HnKkViZMgZA) от AndyRC;
