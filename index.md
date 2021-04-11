@@ -19,7 +19,7 @@
 
 ----
 
-#### бесплатный вариант, [видео](https://youtu.be/HnKkViZMgZA) на английском от AndyRC, инструкция от [GD](https://t.me/galdim45):
+#### бесплатный вариант, [видео](https://youtu.be/HnKkViZMgZA) на английском от AndyRC, инструкция от [GD](https://t.me/djifpvrus/103124:
 ##### _DJI FPV DONE - обязателен_
 
 Увы, но без dji fpv drone, перевести очки в режим для юнитов - _**невозможно**_!
