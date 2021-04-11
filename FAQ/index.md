@@ -23,7 +23,9 @@ frequently asked questions
 16. [Как вообще поделиться видео?](#Как вообще поделиться видео?)
 17. [В очках есть jack 3.5, можно ли подключить наушники и слушать live audio во время полёта?](#В очках есть jack 3.5, можно ли подключить наушники и слушать live audio во время полёта?)
 18. [Хочу заменить стоковую резинку, что выбрать?](#Хочу заменить стоковую резинку, что выбрать?)
-19. [Почему так много “пока” в ответах?](#Почему так много пока в ответах?)
+19. [Где купить мягкую сумку для очков?](#Где купить мягкую сумку для очков?)
+20. [Можно ли сделать угол обзора шире?](#Можно ли сделать угол обзора шире?)
+21. [Почему так много “пока” в ответах?](#Почему так много пока в ответах?)
 
 ----
 
@@ -33,12 +35,11 @@ frequently asked questions
 
 #### <a name='Какая батарея нужна для очков?'>Какая батарея нужна для очков?</a>
 
-> Питание очков 6.6V - 21.75V, разъём на очках DC5521. Питать можно 2-5S или разряженной 6S (на свой страх и риск) через комплектный кабель XT60-DC. Либо с помощью специальных кейсов/батареек с подходящим   разъёмом, варианты:
+> Питание очков 6.6V - 21.75V, разъём на очках DC5521. Питать можно 2-5S или разряженной 6S (на свой страх и риск) через комплектный кабель XT60-DC. Очки занижают питание на 0.4V, учитывайте, если планируете питать от 2s без повышения напряжения:
 >
-> * [ReadyEdi](https://readyedi.ru/product/battery-li-po-pack/akkumuljatory-fpv-racing/readyedi-2500mah-3c-2s-fpv-goggles-lipo-battery-with-voltage-level-indicator/);
-> * [GNB](https://aliexpress.ru/item/4001152381670.html);
-> * [FuriosFPV](https://aliexpress.ru/item/4000990595155.html);
-> * Самосбор LiIon 3-4s1p
+> * батарея из комплекта V2 Goggles;
+> * 3s батарея - например [GNB 2000mah 3S](https://newbeedrone.com/collections/3s-batteries-new/products/gaoneng-gnb-2000mah-3s-11-1v-5c-lipo-battery-for-dji-goggles) или аналог;
+> * самосбор LiIon 3-4s1p (вероятнее всего, на голове будет тяжело, вариант для кармана)
 
 #### <a name='Как включить режим 50Мбит?'>Как включить режим 50Мбит?</a>
 
@@ -91,7 +92,7 @@ frequently asked questions
 
 #### <a name='Кастом OSD и варнинги есть?'>Кастом OSD и варнинги есть?</a>
 
-> Есть:
+> Есть, вот такие:
 >
 > * Betaflight:
 >
@@ -111,7 +112,7 @@ frequently asked questions
 
 #### <a name='Непонятные координаты в OSD, как починить?'>Непонятные координаты в OSD, как починить?</a>
 
-> Если на OSD вот такие координаты, что не хватает последней цифры, то в этой координате надо после точки добавить ноль, и после этого вбивать в гугл. Иначе может показать в стороне на десятки километров.
+> Если на OSD вот такие координаты, что не хватает последней цифры (должно быть 7 знаков после точки), то в этой координате надо после точки добавить ноль, и после этого вбивать в гугл. Иначе может показать в стороне на десятки километров.
 >
 > ![badOSD](/FAQ/pics/badOSD.png?raw=true)
 
@@ -144,7 +145,9 @@ frequently asked questions
 
 > * Компактность, лучше приём - [TrueRC Singularity Stubby](https://www.hobbyrc.co.uk/truerc-singularity-58-stubby-for-dji-4-pack-lhcp) (LHCP);
 > * Лучший приём на long range - [TrueRC X-AIR](https://www.hobbyrc.co.uk/truerc-x-air-58ghz-antenna-for-dji-lhcp) (LHCP);
-> * Компактность, универсальность, ~такой же приём [Lumenier AXII HD](https://aliexpress.ru/item/1005001350404197.html).
+> * Компактность, универсальность, ~такой же приём, чуть получше пробивная способность [Lumenier AXII HD](https://aliexpress.ru/item/1005001350404197.html), можно комплект со стабби;
+> * Компактность, универсальность, ~такой же приём, чуть получше пробивная способность [iFlight Crystal HD Patch](https://shop.iflight-rc.com/index.php?route=product/product&product_id=1384), можно комплект со стабби;
+> * двухдиапазонные стабби для V2 от [TtueRC](https://www.truerc.ca/shop/2-4ghz-2/transmitter-2-4ghz-2/singularity-dual-band-stubby).
 
 #### <a name='Можно ли летать на аналоге?'>Можно ли летать на аналоге?</a>
 
@@ -158,7 +161,8 @@ frequently asked questions
 
 #### <a name='Можно ли передавать видео из очков?'>Можно ли передавать видео из очков?</a>
 
-> Пока только с помощью [аксессуара](https://www.dji.com/ru/smart-controller).
+> - для V1 пока только с помощью [аксессуара](https://www.dji.com/ru/smart-controller);
+> - для V2 [аксессуара](https://www.dji.com/ru/smart-controller) или **только видео с DJI drone** на телефон;
 
 #### <a name='Как вообще поделиться видео?'>Как вообще поделиться видео?</a>
 
@@ -175,12 +179,22 @@ frequently asked questions
 > ![](/FAQ/pics/mrSteele.jpeg?raw=true)
 >
 > * Без центральной резинки на макушке:
->   * [ETHIX goggle strap V3](https://aliexpress.ru/item/4001226153194.html) (силиконовая пупырка в отсеке для батареи);
->   * [ETHIX goggle strap V2](https://aliexpress.ru/item/4000052107567.html);
+>   * [Ethix goggle strap HD](https://www.team-blacksheep.com/products/prod:ethix_gs_hd_bl) (петли на кнопке, не надо пилить или менять проушины);
+>   * [EEthix goggle strap V3](https://aliexpress.ru/item/4001226153194.html) (силиконовая пупырка в отсеке для батареи);
+>   * [EEthix goggle strap V2](https://aliexpress.ru/item/4000052107567.html);
 >   * [iFlight Adjustable FPV Goggles Headband](https://www.aliexpress.com/item/1005001304707433.html) (с проушинами в комплекте!);
 > * С центральной резинкой (как в стоке):
 >   * [Adjustable Head Strap](https://www.aliexpress.com/item/4000830155742.html);
 > * 3$ на резинки 40/25мм + 1.5$ на фурнитуру + швейная машинка (или 2$ заплатить в ателье).
+
+#### <a name='Где купить мягкую сумку для очков?'>Где купить мягкую сумку для очков?</a>
+
+> Стоковой сумки нет в продаже, максимально похожий вариант: [Ethix goggles pouch](https://www.team-blacksheep.com/products/prod:ethix_goggle_pouch)
+
+#### <a name='Можно ли сделать угол обзора шире?'>Можно ли сделать угол обзора шире?</a>
+
+> Можно поменять линзу, точно работает для [стандартной камеры](https://t.me/djifpvrus/98861), вероятно, работает для Caddx Nebula Pro, т.к. [одинаковые линзы](https://djifpv.ru/unit-vs-vista/) с DJI Camera: [RunCam RC18G](https://aliexpress.ru/item/4000007230138.html).
+> [видеоинструкция](https://youtu.be/GS9uhdzoNmA)
 
 #### <a name='Почему так много пока в ответах?'>Почему так много “пока” в ответах?</a>
 
