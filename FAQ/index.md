@@ -194,6 +194,7 @@ frequently asked questions
 #### <a name='Можно ли сделать угол обзора шире?'>Можно ли сделать угол обзора шире?</a>
 
 > Можно поменять линзу, точно работает для [стандартной камеры](https://t.me/djifpvrus/98861), вероятно, работает для Caddx Nebula Pro, т.к. [одинаковые линзы](https://djifpv.ru/unit-vs-vista/) с DJI Camera: [RunCam RC18G](https://aliexpress.ru/item/4000007230138.html).
+>
 > [видеоинструкция](https://youtu.be/GS9uhdzoNmA)
 
 #### <a name='Почему так много пока в ответах?'>Почему так много “пока” в ответах?</a>
