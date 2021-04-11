@@ -196,6 +196,7 @@ frequently asked questions
 > Можно поменять линзу, точно работает для [стандартной камеры](https://t.me/djifpvrus/98861), вероятно, работает для Caddx Nebula Pro, т.к. [одинаковые линзы](https://djifpv.ru/unit-vs-vista/) с DJI Camera: [RunCam RC18G](https://aliexpress.ru/item/4000007230138.html).
 >
 > [видеоинструкция](https://youtu.be/GS9uhdzoNmA)
+> [обзор](https://youtu.be/xbOct8rGkyc) от Oleg Stelmakh
 
 #### <a name='Почему так много пока в ответах?'>Почему так много “пока” в ответах?</a>
 
