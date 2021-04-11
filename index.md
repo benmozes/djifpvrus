@@ -7,7 +7,7 @@
 * [Передатчики, камеры](https://djifpv.ru/unit-vs-vista/)
 * [Betaflight OSD patch](https://djifpv.ru/osd-patch/)
 * [iNav OSD patch](https://djifpv.ru/inav-osd-patch/)
-* [Частотная сетка DJI fpv vs аналог](https://djifpv.ru/freq/)
+* [Частотная сетка DJI fpv vs аналог vs SharkByte](https://djifpv.ru/freq/)
 
 ---
 
