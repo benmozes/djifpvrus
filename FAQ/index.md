@@ -175,7 +175,11 @@ frequently asked questions
 
 #### <a name='В очках есть jack 3.5, можно ли подключить наушники и слушать live audio во время полёта?'>В очках есть jack 3.5, можно ли подключить наушники и слушать live audio во время полёта?</a>
 
-> Live audio передаётся с DJI drone на v2 очки. DVR так же пишется со звуком.
+> Live audio передаётся с DJI drone на v2 очки. DVR так же пишется со звуком. Звук передается в случае включения соответственно опции Audio Recording в меню очков.
+>
+> ![sound](/FAQ/pics/sound.jpg?raw=true)
+>
+> ----
 >
 > Для v1 очков и v2 + dji air unit/caddx vista - по-прежнему недоступно.
 
