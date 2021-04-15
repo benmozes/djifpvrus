@@ -175,7 +175,7 @@ frequently asked questions
 
 #### <a name='В очках есть jack 3.5, можно ли подключить наушники и слушать live audio во время полёта?'>В очках есть jack 3.5, можно ли подключить наушники и слушать live audio во время полёта?</a>
 
-> Live audio передаётся с DJI drone на v2 очки. DVR так же пишется со звуком. Звук передается в случае включения соответственно опции Audio Recording в меню очков.
+> Live audio передаётся с DJI drone на v2 очки. DVR так же пишется со звуком. Звук передается в случае включения опции Audio Recording в меню очков.
 >
 > ![sound](/FAQ/pics/sound.jpg?raw=true)
 >
