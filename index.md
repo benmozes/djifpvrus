@@ -11,7 +11,7 @@
 
 ---
 
-#### Если есть проблема с активацией standalone (не их комплекта с DJI FPV Drone) V2 goggles.
+#### Если есть проблема с активацией standalone (не из комплекта с DJI FPV Drone) V2 goggles.
 
 может помочь [документ](https://docs.google.com/document/d/1T6fUOv4TjPwUuy8nDpnhJME348c4_WQYBkIPcGWFmtA/edit) с инструкцией
 
