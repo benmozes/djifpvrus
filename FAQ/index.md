@@ -178,7 +178,7 @@ frequently asked questions
 #### <a name='Можно ли передавать видео из очков?'>Можно ли передавать видео из очков?</a>
 
 > - для V1 пока только с помощью [аксессуара](https://www.dji.com/ru/smart-controller);
-> - для V2 [аксессуара](https://www.dji.com/ru/smart-controller) или **только видео с DJI drone** на телефон;
+> - для V2 с помощью [аксессуара](https://www.dji.com/ru/smart-controller) или **только видео с DJI drone** на телефон;
 
 #### <a name='Как вообще поделиться видео?'>Как вообще поделиться видео?</a>
 
