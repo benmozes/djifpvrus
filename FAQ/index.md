@@ -116,6 +116,11 @@ frequently asked questions
 >   * Выбрать в [Serial configuration](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/kiss.png) DJI-MSP на нужном порту.
 >
 >     ![50mbps](/FAQ/pics/kiss.png?raw=true)
+>
+> - Не забудьте включить в настройках очков custom OSD:
+>   - settings
+>   - display
+>   - custom OSD - on
 
 #### <a name='На caddx vista из коробки пины GND и BAT со следами пайки, это нормально?'>На caddx vista из коробки пины GND и BAT со следами пайки, это нормально?</a>
 
