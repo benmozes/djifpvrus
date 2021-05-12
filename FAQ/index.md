@@ -202,8 +202,8 @@ frequently asked questions
 >
 > * Без центральной резинки на макушке:
 >   * [Ethix goggle strap HD](https://www.team-blacksheep.com/products/prod:ethix_gs_hd_bl) (петли на кнопке, не надо пилить или менять проушины);
->   * [EEthix goggle strap V3](https://aliexpress.ru/item/4001226153194.html) (силиконовая пупырка в отсеке для батареи);
->   * [EEthix goggle strap V2](https://aliexpress.ru/item/4000052107567.html);
+>   * [Ethix goggle strap V3](https://aliexpress.ru/item/4001226153194.html) (силиконовая пупырка в отсеке для батареи);
+>   * [Ethix goggle strap V2](https://aliexpress.ru/item/4000052107567.html);
 >   * [iFlight Adjustable FPV Goggles Headband](https://www.aliexpress.com/item/1005001304707433.html) (с проушинами в комплекте!);
 > * С центральной резинкой (как в стоке):
 >   * [Adjustable Head Strap](https://www.aliexpress.com/item/4000830155742.html);
