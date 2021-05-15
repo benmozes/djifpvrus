@@ -122,6 +122,7 @@ frequently asked questions
 >   - settings
 >   - display
 >   - custom OSD - on
+>     
 > ##### Что умеет показывать Betaflight OSD до патчей
 >
 > |                              | по состоянию на август 2020        |
