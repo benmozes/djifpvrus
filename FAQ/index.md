@@ -99,6 +99,29 @@ frequently asked questions
 
 #### <a name='Кастом OSD и варнинги есть?'>Кастом OSD и варнинги есть?</a>
 
+
+> Есть, вот такие:
+>
+> * Betaflight:
+>
+>   * Активировать [порт](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/betaports.jpg) на который припаяли RX и TX;
+>
+>     ![50mbps](/FAQ/pics/betaports.jpg?raw=true)
+>
+>   * Включить [OSD](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/betaOSD.jpg).
+>
+>     ![50mbps](/FAQ/pics/betaOSD.jpg?raw=true)
+>
+> * KiSS:
+>
+>   * Выбрать в [Serial configuration](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/kiss.png) DJI-MSP на нужном порту.
+>
+>     ![50mbps](/FAQ/pics/kiss.png?raw=true)
+>
+> - Не забудьте включить в настройках очков custom OSD:
+>   - settings
+>   - display
+>   - custom OSD - on
 > ##### Что умеет показывать Betaflight OSD до патчей
 >
 > |                              | по состоянию на август 2020        |
@@ -134,28 +157,6 @@ frequently asked questions
 > | GPS latitude                 | ~~Display name~~                   |
 > | GPS longtitude               |                                    |
 >
-> Есть, вот такие:
->
-> * Betaflight:
->
->   * Активировать [порт](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/betaports.jpg) на который припаяли RX и TX;
->
->     ![50mbps](/FAQ/pics/betaports.jpg?raw=true)
->
->   * Включить [OSD](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/betaOSD.jpg).
->
->     ![50mbps](/FAQ/pics/betaOSD.jpg?raw=true)
->
-> * KiSS:
->
->   * Выбрать в [Serial configuration](https://raw.githubusercontent.com/benmozes/djifpvrus/master/FAQ/pics/kiss.png) DJI-MSP на нужном порту.
->
->     ![50mbps](/FAQ/pics/kiss.png?raw=true)
->
-> - Не забудьте включить в настройках очков custom OSD:
->   - settings
->   - display
->   - custom OSD - on
 
 #### <a name='На caddx vista из коробки пины GND и BAT со следами пайки, это нормально?'>На caddx vista из коробки пины GND и BAT со следами пайки, это нормально?</a>
 
