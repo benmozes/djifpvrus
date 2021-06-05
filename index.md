@@ -25,5 +25,5 @@
 ----
 - [Best GoPro Settings for Cinematic FPV by Stefano Rinaldo](https://filmfpv.com/best-gopro-settings-stabilization-for-cinematic-fpv/)
 - [Что делать, если Tango 2 перестала запускаться, выключается сама или зависает?](https://djifpv.ru/tango-trouble/)
-- [Немного правовой информации (актуально для РФ)](https://djifpv.ru/law/)
+- [Немного правовой информации о полётах FPV (актуально для РФ)](https://djifpv.ru/law/)
 
