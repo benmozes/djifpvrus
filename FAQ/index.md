@@ -243,7 +243,7 @@ frequently asked questions
 
 > Что угодно. Вероятно, понадобится напечатать [проушины](https://www.thingiverse.com/thing:3952410) или распилить стоковые (вот [так](https://t.me/djifpvrus/17275)). Возможные варианты резинок на любой вкус и кошелёк:
 >
-> ![](/FAQ/pics/mrSteele.jpeg?raw=true)
+> <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="djifpvrus/17390" data-width="100%"></script>
 >
 > * Без центральной резинки на макушке:
 >   * [Ethix goggle strap HD](https://www.team-blacksheep.com/products/prod:ethix_gs_hd_bl) (петли на кнопке, не надо пилить или менять проушины);
