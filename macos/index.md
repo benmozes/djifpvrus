@@ -1,8 +1,8 @@
 # Как пофиксить ошибку на MacOS
-![error](/macos/pics/macos.png?raw=true)
+![error](/macos/pics/5-100-4.png?raw=true)
 #### видео-инструкция:
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/yaMwygpEQh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/yaMwygpEQh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### общая инструкция:
 
