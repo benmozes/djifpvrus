@@ -63,8 +63,14 @@ frequently asked questions
 
 > Купить новую:
 >
-> * [такую](https://aliexpress.ru/item/4001197194149.html); 
+> * [такую](https://aliexpress.ru/item/4001197194149.html) (DJI);
+>
+> * полный аналог мастки от DJI, только в пакете [iFlight](https://aliexpress.ru/item/1005002481581483.html), часто дешевле DJI, но не уступает по качеству; 
+>
+>   <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="djifpvrus/171168" data-width="100%"></script>
+>
 > * или [такую](https://aliexpress.ru/item/4001160996689.html);
+>
 > * или напечатать [проставки](https://www.thingiverse.com/thing:3840374) (но вариант не очень удобный).
 
 #### <a name='FCC hack / как включить максимальную мощность?'>FCC hack / как включить максимальную мощность?</a>
