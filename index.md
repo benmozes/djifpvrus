@@ -23,6 +23,9 @@
 #### Где купить дисплей для замены
 
 [здесь](https://www.alibaba.com/product-detail/TFT-LCD-module-2-6-inch_62597381587.html), подходят для v1 и v2 версий, разницы левый/правый нет
+
+
+
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="djifpvrus/188495" data-width="100%"></script>
 
 ----
