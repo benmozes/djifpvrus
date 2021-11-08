@@ -20,8 +20,9 @@
 
 ---
 
-#### Если вы прожгли дисплей очков под солнцем
-можно заказать замену [тут](https://www.alibaba.com/product-detail/TFT-LCD-module-2-6-inch_62597381587.html), подходят для v1 и v2 версий, разницы левый/правый нет.
+#### Где купить дисплей для замены
+
+можно заказать [тут](https://www.alibaba.com/product-detail/TFT-LCD-module-2-6-inch_62597381587.html), подходят для v1 и v2 версий, разницы левый/правый нет
 
 ----
 - [Best GoPro Settings for Cinematic FPV by Stefano Rinaldo](https://filmfpv.com/best-gopro-settings-stabilization-for-cinematic-fpv/)
