@@ -19,10 +19,12 @@
 * [Что делать, если DJI FPV Drone улетел, а видео на очки не записывалось](https://djifpv.ru/lost/)
 
 ---
+
 #### Где купить дисплей для замены
 
-можно заказать тут, подходят для v1 и v2 версий, разницы левый/правый нет
+[тут](https://www.alibaba.com/product-detail/TFT-LCD-module-2-6-inch_62597381587.html), подходят для v1 и v2 версий, разницы левый/правый нет
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="djifpvrus/188495" data-width="100%"></script>
+
 ----
 - [Best GoPro Settings for Cinematic FPV by Stefano Rinaldo](https://filmfpv.com/best-gopro-settings-stabilization-for-cinematic-fpv/)
 - [Что делать, если Tango 2 перестала запускаться, выключается сама или зависает?](https://djifpv.ru/tango-trouble/)
