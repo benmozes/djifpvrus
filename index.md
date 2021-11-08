@@ -20,9 +20,8 @@
 
 ---
 
-#### Если есть проблема с активацией standalone (не из комплекта с DJI FPV Drone) V2 goggles.
-
-может помочь [документ](https://docs.google.com/document/d/1T6fUOv4TjPwUuy8nDpnhJME348c4_WQYBkIPcGWFmtA/edit) с инструкцией
+#### Если вы прожгли дисплей очков под солнцем
+можно заказать замену [тут](https://www.alibaba.com/product-detail/TFT-LCD-module-2-6-inch_62597381587.html), подходят для v1 и v2 версий, разницы левый/правый нет.
 
 ----
 - [Best GoPro Settings for Cinematic FPV by Stefano Rinaldo](https://filmfpv.com/best-gopro-settings-stabilization-for-cinematic-fpv/)
