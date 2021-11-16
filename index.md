@@ -29,7 +29,7 @@
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="djifpvrus/188495" data-width="100%"></script>
 
 ----
-- [Best GoPro Settings for Cinematic FPV by Stefano Rinaldo](https://filmfpv.com/best-gopro-settings-stabilization-for-cinematic-fpv/)
+- [Best GoPro Settings for Cinematic FPV by Stefano Rinaldo](https://djifpv.ru/stab/)
 - [Что делать, если Tango 2 перестала запускаться, выключается сама или зависает?](https://djifpv.ru/tango-trouble/)
 - [Немного правовой информации о полётах FPV (актуально для РФ)](https://djifpv.ru/law/)
 
