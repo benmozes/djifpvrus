@@ -47,9 +47,9 @@
         - [STM32F7X2](/4.2.9_hex/betaflight_4.2.9_STM32F7X2_.hex)
     1. Beta v4.3.0 RC2
         - [STM32F405](/4.3.0_hex/betaflight_4.3.0_RC2_STM32F405.hex)
-        - [STM32F411](/4.2.9_hex/betaflight_4.3.0_RC2_STM32F411.hex)
-        - [STM32F722](betaflight_4.3.0_RC2_STM32F722.hex)
-        - [STM32F745](betaflight_4.3.0_RC2_STM32F745.hex)
+        - [STM32F411](/4.3.0_hex/betaflight_4.3.0_RC2_STM32F411.hex)
+        - [STM32F722](/4.3.0_hex/betaflight_4.3.0_RC2_STM32F722.hex)
+        - [STM32F745](/4.3.0_hex/betaflight_4.3.0_RC2_STM32F745.hex)
 
 1. Сохраняем дамп текущих настроек вашей прошивки, как вы это делаете при обычной перепрошивке. Все ваши настройки слетят, поэтому позаботьтесь о дампе или будете настраивать все с нуля!
 
