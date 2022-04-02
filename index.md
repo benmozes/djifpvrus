@@ -9,6 +9,7 @@
 * [F.A.Q.](https://djifpv.ru/FAQ/)
 * [Использование очков из DJI FPV Drone kit совместно с Air Unit/Caddx Vista](https://djifpv.ru/kit-goggles-v2/)
 * [Начальная настройка DJI FPV](https://djifpv.ru/first-steps/)
+* [Отличия dji fpv googles v1 и v2 версий](https://djifpv.ru/googles-v1-vs-v2/)
 * [Ошибка Update failed (5-100-4) на MacOS](https://djifpv.ru/macos/)
 * [Передача видео из очков на сторонний девайс](https://djifpv.ru/video_out/)
 * [Передатчики, камеры](https://djifpv.ru/unit-vs-vista/)
