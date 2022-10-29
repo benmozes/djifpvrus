@@ -17,6 +17,7 @@
 * [iNav OSD patch](https://djifpv.ru/inav-osd-patch/)
 * [Полное дерево меню (в разработке)](https://djifpv.ru/menu/)
 * [Частотная сетка DJI fpv vs аналог vs SharkByte](https://djifpv.ru/freq/)
+* [Совместимость прошивок V2 очков с root](https://djifpv.ru/root/)
 * [Что делать, если DJI FPV Drone улетел, а видео на очки не записывалось](https://djifpv.ru/lost/)
 
 ---
